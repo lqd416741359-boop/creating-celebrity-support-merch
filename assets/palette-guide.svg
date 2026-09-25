@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720">
+  <rect width="1000" height="720" rx="36" fill="#F7F5F1"/>
+  <text x="55" y="72" font-family="Microsoft YaHei, sans-serif" font-size="34" font-weight="700" fill="#17191F">应援物配色参考</text>
+  <text x="55" y="108" font-family="Microsoft YaHei, sans-serif" font-size="17" fill="#696D77">色带从左到右：主色 60% · 辅色 30% · 点缀色 10%</text>
+
+  <g font-family="Microsoft YaHei, sans-serif">
+    <g transform="translate(55 145)">
+      <text x="0" y="35" font-size="26" font-weight="700" fill="#17191F">01</text>
+      <rect x="60" y="0" width="470" height="48" rx="10" fill="#0B0B0F"/><rect x="342" y="0" width="141" height="48" fill="#D3172B"/><rect x="483" y="0" width="47" height="48" rx="0" fill="#C8CCD3"/>
+      <text x="560" y="23" font-size="24" font-weight="700" fill="#17191F">黑红银</text><text x="560" y="47" font-size="16" fill="#696D77">舞台感 · 力量感</text>
+    </g>
+    <g transform="translate(55 225)">
+      <text x="0" y="35" font-size="26" font-weight="700" fill="#17191F">02</text>
+      <rect x="60" y="0" width="470" height="48" rx="10" fill="#132A58"/><rect x="342" y="0" width="141" height="48" fill="#BFC7D5"/><rect x="483" y="0" width="47" height="48" fill="#F7F9FC"/>
+      <text x="560" y="23" font-size="24" font-weight="700" fill="#17191F">蓝银白</text><text x="560" y="47" font-size="16" fill="#696D77">清冷 · 未来感</text>
+    </g>
+    <g transform="translate(55 305)">
+      <text x="0" y="35" font-size="26" font-weight="700" fill="#17191F">03</text>
+      <rect x="60" y="0" width="470" height="48" rx="10" fill="#5A347C"/><rect x="342" y="0" width="141" height="48" fill="#F08BB9"/><rect x="483" y="0" width="47" height="48" fill="#D9DCE4"/>
+      <text x="560" y="23" font-size="24" font-weight="700" fill="#17191F">紫粉银</text><text x="560" y="47" font-size="16" fill="#696D77">梦幻 · 浪漫</text>
+    </g>
+    <g transform="translate(55 385)">
+      <text x="0" y="35" font-size="26" font-weight="700" fill="#17191F">04</text>
+      <rect x="60" y="0" width="470" height="48" rx="10" fill="#111318"/><rect x="342" y="0" width="141" height="48" fill="#C99A2E"/><rect x="483" y="0" width="47" height="48" fill="#F3EBDD"/>
+      <text x="560" y="23" font-size="24" font-weight="700" fill="#17191F">黑金</text><text x="560" y="47" font-size="16" fill="#696D77">高级 · 典藏感</text>
+    </g>
+    <g transform="translate(55 465)">
+      <text x="0" y="35" font-size="26" font-weight="700" fill="#17191F">05</text>
+      <rect x="60" y="0" width="470" height="48" rx="10" fill="#F6F0E5"/><rect x="342" y="0" width="141" height="48" fill="#D9B87A"/><rect x="483" y="0" width="47" height="48" fill="#A77A3D"/>
+      <text x="560" y="23" font-size="24" font-weight="700" fill="#17191F">白金香槟</text><text x="560" y="47" font-size="16" fill="#696D77">温柔 · 轻奢</text>
+    </g>
+    <g transform="translate(55 545)">
+      <text x="0" y="35" font-size="26" font-weight="700" fill="#17191F">06</text>
+      <rect x="60" y="0" width="470" height="48" rx="10" fill="#1E5C49"/><rect x="342" y="0" width="141" height="48" fill="#AEB7B5"/><rect x="483" y="0" width="47" height="48" fill="#F2F4F0"/>
+      <text x="560" y="23" font-size="24" font-weight="700" fill="#17191F">绿银灰</text><text x="560" y="47" font-size="16" fill="#696D77">清新 · 艺术感</text>
+    </g>
+    <g transform="translate(55 625)">
+      <text x="0" y="35" font-size="26" font-weight="700" fill="#17191F">07</text>
+      <defs><linearGradient id="custom" x1="0" x2="1"><stop stop-color="#E34B57"/><stop offset=".25" stop-color="#E9A13C"/><stop offset=".5" stop-color="#50A877"/><stop offset=".75" stop-color="#497BC6"/><stop offset="1" stop-color="#895BB8"/></linearGradient></defs>
+      <rect x="60" y="0" width="470" height="48" rx="10" fill="url(#custom)"/>
+      <text x="560" y="23" font-size="24" font-weight="700" fill="#17191F">自定义颜色</text><text x="560" y="47" font-size="16" fill="#696D77">输入你喜欢的颜色</text>
+    </g>
+  </g>
+</svg>

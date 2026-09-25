@@ -1,0 +1,7 @@
+interface:
+  display_name: "明星应援物生成器"
+  short_description: "通过七项编号菜单快速生成明星应援周边视觉设计"
+  default_prompt: "使用 $creating-celebrity-support-merch 为指定人物制作应援周边，并按当前缺失信息依次引导我选择人物来源、周边类型和配色。"
+
+policy:
+  allow_implicit_invocation: true
